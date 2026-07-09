@@ -14,7 +14,7 @@ const NavigationBar = () => {
         <a class="nav-link" href="/">Add employee</a>
         <a class="nav-link" href="/Search">Search employee</a>
         <a class="nav-link" href="/Delete">Delete employee</a>
-        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        <a class="nav-link" href="/View">View employee</a>
 
       </div>
     </div>
